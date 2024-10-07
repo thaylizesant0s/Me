@@ -1,4 +1,4 @@
-<p align="center"> <strongstyle="font-size: 2.5em;">👋 Hey, I’m Thaylize Santos!</strong></p>
+<h1 align="center">👋 Hey, I'm Thaylize Santos!</h1>p
 
 👩‍💻 **Ambitious Student and Future Software Engineer**  
 📍 **Maranguape, Ceará - Brazil**  
