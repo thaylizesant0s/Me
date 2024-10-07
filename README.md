@@ -1,4 +1,4 @@
-# Thaylize Santos 👾
+# 👋 Hey, I’m Thaylize Santos!
 
 👩‍💻 **Ambitious Student and Future Software Engineer**  
 📍 **Maranguape, Ceará - Brazil**  
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me:
 
-Hey, I’m Thaylize! A tech student with big dreams at IFCE. I’m currently diving into Python, HTML, Java, and Swift, and I love seeing how technology can create amazing things. I’m self-taught, competitive, and determined, always striving to improve. I believe in taking responsibility and inspiring others through my actions.
+I’m a tech student with big dreams at IFCE. I’m currently diving into Python, HTML, Java, and Swift, and I love seeing how technology can create amazing things. I’m self-taught, competitive, and determined, always striving to improve. I believe in taking responsibility and inspiring others through my actions.
 
 In the future, I plan to specialize in Artificial Intelligence and cybersecurity, which I find incredibly exciting.
 
