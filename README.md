@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Thaylize Santos!
+<p align="center"> <strong>👋 Hey, I’m Thaylize Santos!</strong></p>
 
 👩‍💻 **Ambitious Student and Future Software Engineer**  
 📍 **Maranguape, Ceará - Brazil**  
