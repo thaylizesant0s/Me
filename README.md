@@ -40,7 +40,7 @@ My goal is to become a software engineer and specialize in Artificial Intelligen
 
 ---
 
-## Find Me Here:
+## 📬 Find Me Here:
 
 - **E-mail:** [thaylizesantos@aluno.ifce.edu.br](mailto:thaylizesantos@aluno.ifce.edu.br), [work.thaylizesantos@gmail.com](mailto:work.thaylizesantos@gmail.com)  
 - **LinkedIn:** [Thaylize Santos](https://www.linkedin.com/in/thaylizesantos)
